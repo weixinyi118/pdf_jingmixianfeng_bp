@@ -1,0 +1,5 @@
+interface:
+  display_name: "静谧先锋 BP"
+  short_description: "忠实提炼原文并套用静谧先锋审美，生成克制的 A4 PDF"
+  brand_color: "#8E382D"
+  default_prompt: "Use $quiet-avant-garde-bp to faithfully condense and typeset my source content into a polished A4 PDF without adding new claims, strategies, or business content."
